@@ -1,0 +1,11 @@
+.venv/
+backend/venv/
+backend/*.pth
+backend/skin cancer/
+backend/HAM10000_images_part_1/
+backend/HAM10000_images_part_2/
+backend/data_mc/
+backend/*.jpg
+backend/*.png
+__pycache__/
+.DS_Store
